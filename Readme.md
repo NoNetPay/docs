@@ -6,9 +6,11 @@
 https://youtube.com/playlist?list=PLJcPkv_aEHNpeQP7LAL9c7JX0ZSYb8hty&si=y9k8fDr37l7ZSUvM 
 
 ### Resources
-🔗 Smart Contracts: github.com/NoNetPay/contracts
+🔗 Smart Contracts: https://github.com/NoNetPay/contracts
 
-🔒 TEE Message Server: github.com/NoNetPay/message-TEE
+🔒 TEE Message Server: https://github.com/NoNetPay/message-TEE
+
+Our Twitter Profile: https://x.com/DisburseN26431
 
 📞 Access Service: +91 8999545548
 
