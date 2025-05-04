@@ -5,11 +5,10 @@
 
 **NoNetPay** enables **offline crypto access and passive yield earning** by leveraging **mesh-based message sharing**, **trusted relayers**, and **TEE-secured wallets**, all integrated with **on-chain DeFi protocols**.
 
----
-
 🧬 Example Flow: Sending USDC Offline
 User A (offline) creates a signed intent:
 “Send 5 USDC to User B”
+![image](https://github.com/user-attachments/assets/4c607b27-dad5-4dab-bcab-c05c9a6608f8)
 
 - It’s shared with nearby User B, then User C (connected to a relayer)
 - User C forwards the intent to a +91 Registered Relayer
@@ -67,4 +66,3 @@ User A (offline) creates a signed intent:
    * Users can later request withdrawal or view balances using the same **offline message propagation model**.
    * Once the signed message is relayed to the TEE, it processes the request and updates the Safe wallet state accordingly.
 
----
