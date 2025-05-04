@@ -2,6 +2,12 @@
 ## 📡 NoNetPay: Offline Crypto Yield & Payment Network
 
 
+### Check Our demo 
+https://www.loom.com/share/daf59647246b49649e8fc56e54157627?sid=1285f8c8-ac4f-4204-ae6d-c72001337cf8
+
+### Check Our Pitch 
+https://www.loom.com/share/6c5c1a2969b74436a6d2d72f0c6f2e56?sid=44bcd7e6-3f2d-40bc-99ee-a847b5e5f289
+
 ### Resources
 🔗 Smart Contracts: github.com/NoNetPay/contracts
 
