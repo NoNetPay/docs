@@ -14,7 +14,7 @@ Our Twitter Profile: https://x.com/DisburseN26431
 
 📞 Access Service: +91 8999545548
 
-🌐 Landing Page: nonetpay.com
+🌐 Landing Page: https://nonetpay.com
 
 ### 🔧 Overview
 
