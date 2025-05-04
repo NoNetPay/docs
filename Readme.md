@@ -1,6 +1,16 @@
 
 ## 📡 NoNetPay: Offline Crypto Yield & Payment Network
 
+
+### Resources
+🔗 Smart Contracts: github.com/NoNetPay/contracts
+
+🔒 TEE Message Server: github.com/NoNetPay/message-TEE
+
+📞 Access Service: +91 8999545548
+
+🌐 Landing Page: nonetpay.com
+
 ### 🔧 Overview
 
 **NoNetPay** enables **offline crypto access and passive yield earning** by leveraging **mesh-based message sharing**, **trusted relayers**, and **TEE-secured wallets**, all integrated with **on-chain DeFi protocols**.
