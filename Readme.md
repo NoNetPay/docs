@@ -3,7 +3,7 @@
 
 
 ### Check Our demo and pitch at
-[https://www.loom.com/share/6c5c1a2969b74436a6d2d72f0c6f2e56?sid=44bcd7e6-3f2d-40bc-99ee-a847b5e5f289](https://youtube.com/playlist?list=PLJcPkv_aEHNpeQP7LAL9c7JX0ZSYb8hty&si=y9k8fDr37l7ZSUvM) 
+https://youtube.com/playlist?list=PLJcPkv_aEHNpeQP7LAL9c7JX0ZSYb8hty&si=y9k8fDr37l7ZSUvM 
 
 ### Resources
 🔗 Smart Contracts: github.com/NoNetPay/contracts
